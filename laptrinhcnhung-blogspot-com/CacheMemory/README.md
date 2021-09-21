@@ -21,3 +21,5 @@ as same as RAM's speed. Thus, **cache**'s (in mictro-controller in this case) pu
 * Divide Cache into 2 levels. Level 1 runs with the same speed as CPU. Level 2 has more storage but run slower than CPU (but still faster than RAM's speed)
 
 ![](img/cache_2_levels.png)
+
+More reference at (Cache in Core M7)[]
