@@ -24,5 +24,5 @@ A minor comparision between VonNeuMann and Harvard
 
 CISC is designed to minimize the `Assembly code` lines while the RISC is designed to simplify instructions so that that they could be executed in 1 clock cycle.(Most of the ARM-based microcontrollers are RISC type).
 
-![](img/CISC_RISC_comp)
+![](img/CISC_RISC_comp.png)
 
