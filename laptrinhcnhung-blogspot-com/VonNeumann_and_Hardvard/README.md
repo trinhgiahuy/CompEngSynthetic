@@ -15,3 +15,14 @@ Unlike Von Neumann, the Harvard architecture distinguish between program memory 
 ![](img/harvard.png)
 
 A minor comparision between VonNeuMann and Harvard
+![](img/archi_comp)
+
+----
+## CISC & RISC design
+
+`CISC _ Complex Instruction Set Computer` and `RISC _ Reduced Instruction Set Computer` are 2 types of micro-processor design.
+
+CISC is designed to minimize the `Assembly code` lines while the RISC is designed to simplify instructions so that that they could be executed in 1 clock cycle.(Most of the ARM-based microcontrollers are RISC type).
+
+![](img/CISC_RISC_comp)
+
